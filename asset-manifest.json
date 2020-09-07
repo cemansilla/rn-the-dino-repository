@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rn-the-dino-repository/static/css/main.b4c224b8.chunk.css",
+    "main.js": "/rn-the-dino-repository/static/js/main.6b4d60ef.chunk.js",
+    "main.js.map": "/rn-the-dino-repository/static/js/main.6b4d60ef.chunk.js.map",
+    "runtime-main.js": "/rn-the-dino-repository/static/js/runtime-main.eb39d49a.js",
+    "runtime-main.js.map": "/rn-the-dino-repository/static/js/runtime-main.eb39d49a.js.map",
+    "static/js/2.bb8bd084.chunk.js": "/rn-the-dino-repository/static/js/2.bb8bd084.chunk.js",
+    "static/js/2.bb8bd084.chunk.js.map": "/rn-the-dino-repository/static/js/2.bb8bd084.chunk.js.map",
+    "index.html": "/rn-the-dino-repository/index.html",
+    "precache-manifest.945570be6708c4d57e5c0c67c36135d2.js": "/rn-the-dino-repository/precache-manifest.945570be6708c4d57e5c0c67c36135d2.js",
+    "service-worker.js": "/rn-the-dino-repository/service-worker.js",
+    "static/css/main.b4c224b8.chunk.css.map": "/rn-the-dino-repository/static/css/main.b4c224b8.chunk.css.map",
+    "static/js/2.bb8bd084.chunk.js.LICENSE.txt": "/rn-the-dino-repository/static/js/2.bb8bd084.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb39d49a.js",
+    "static/js/2.bb8bd084.chunk.js",
+    "static/css/main.b4c224b8.chunk.css",
+    "static/js/main.6b4d60ef.chunk.js"
+  ]
+}
