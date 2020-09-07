@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Try it live!
+[https://cemansilla.github.io/rn-the-dino-repository/](https://cemansilla.github.io/rn-the-dino-repository/)
+
 ## Available Scripts
 
 In the project directory, you can run:
